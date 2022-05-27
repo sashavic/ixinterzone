@@ -1,0 +1,8 @@
+
+"ixinterzone"
+{
+	"base" 			"helix"
+	"title" 		"Interzone"
+	"author" 		"nebulous"
+	"menusystem"	"1"
+}
